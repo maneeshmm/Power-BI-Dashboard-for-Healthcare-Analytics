@@ -3,6 +3,7 @@
 ## Project Overview
 
 This Power BI project visualizes healthcare provider data, offering insights into billing, medication, treatment, insurance, and service costs. The dashboard provides an analytical view of different healthcare aspects, helping stakeholders understand financial distributions and trends.
+
 ![Dashboard Preview](https://github.com/maneeshmm/Power-BI-Dashboard-for-Healthcare-Analytics/blob/main/Dashboard%20Screenshot.png)
 
 ## Data Sources
